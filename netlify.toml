@@ -1,4 +1,4 @@
 [build]
-  base = "/"
+  base = "src"
   publish = ".next"
   command = "npm run build"
