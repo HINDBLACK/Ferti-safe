@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/api/translate/route": "app/api/translate/route.js",
+  "/page": "app/page.js",
+  "/admin/dashboard/products/new/page": "app/admin/dashboard/products/new/page.js",
+  "/admin/dashboard/products/[id]/edit/page": "app/admin/dashboard/products/[id]/edit/page.js",
+  "/admin/dashboard/categories/page": "app/admin/dashboard/categories/page.js",
+  "/admin/dashboard/products/page": "app/admin/dashboard/products/page.js",
+  "/[locale]/products/[category]/[slug]/page": "app/[locale]/products/[category]/[slug]/page.js",
+  "/[locale]/products/page": "app/[locale]/products/page.js",
+  "/[locale]/products/[category]/page": "app/[locale]/products/[category]/page.js",
+  "/[locale]/page": "app/[locale]/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/dashboard/settings/page": "app/admin/dashboard/settings/page.js"
+}
